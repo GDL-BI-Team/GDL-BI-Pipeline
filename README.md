@@ -7,3 +7,4 @@ GDL NGS Pipeline
 
 - Fork Test, from remote Desktop
 - Fork test, hwangbo
+- Rule Test
