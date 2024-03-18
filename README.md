@@ -9,3 +9,4 @@ GDL NGS Pipeline
 - Fork test, hwangbo
 - Rule Test
 - Server3 Clone done
+- Test
