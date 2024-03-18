@@ -8,5 +8,5 @@ GDL NGS Pipeline
 - Fork Test, from remote Desktop
 - Fork test, hwangbo
 - Rule Test
-- Server3 Clone done
-- Test
+
+hi 
