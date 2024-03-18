@@ -9,4 +9,4 @@ GDL NGS Pipeline
 - Fork test, hwangbo
 - Rule Test
 
-hi 
+hi - test
