@@ -1,0 +1,1 @@
+../../exampleData/hg19_MboI.txt
