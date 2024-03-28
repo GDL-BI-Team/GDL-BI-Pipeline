@@ -1,0 +1,1 @@
+../../Reference_GRCm38/GRCm38p6_Chromsize.txt
